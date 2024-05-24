@@ -31,6 +31,4 @@ def get_response(messages_list):
             response += chunk.choices[0].delta.content
     return response
 
-if __name__ == "__main__":
-    app.secret_key = 'super secret key'  
-    app.run(debug=True)
+
