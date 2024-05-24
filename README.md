@@ -1,6 +1,6 @@
-# ChatGPT Assistant
+# ChatAI Assistant
 
-ChatGPT Assistant is a web-based chat interface powered by OpenAI's GPT models. It allows users to interact with an AI assistant, which can provide responses based on the input provided by the user.
+ChatAI Assistant is a web-based chat interface powered by OpenAI's llama3-8b-8192 model. It allows users to interact with an AI assistant, which can provide responses based on the input provided by the user.
 
 ## Features
 
